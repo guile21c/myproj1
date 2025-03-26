@@ -1,1 +1,5 @@
 mytoken0624
+*.bak
+dir1
+dir*
+!dir1/file
